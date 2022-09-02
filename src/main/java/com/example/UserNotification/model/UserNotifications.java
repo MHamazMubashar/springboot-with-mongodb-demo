@@ -40,6 +40,4 @@ public class UserNotifications {
 
     @Field("deleted")
     private boolean deleted;
-
-
 }
